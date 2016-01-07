@@ -19,4 +19,4 @@ def selection_sort(arr):
 		arr[current_min[0]] = temp
 	print arr
 
-selection_sort([39,5,9,12,43,24,25,26,2])
+selection_sort([sample_list])
